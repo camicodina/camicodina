@@ -3,9 +3,9 @@
 :woman_technologist: Student Cloud at <a href="https://www.ibm.com/ar-es">IBM  </a><img src="https://media.giphy.com/media/7JQIe39F9KsCNN9f99/giphy.gif" width="30"> <br>
 🌱 Computer Engineer Student af University of Buenos Aires
 
-- I'm 19 years old
-- I live in Buenos Aires, Argentina
-- I have a cat called Java :3
+I'm 19 years old
+I live in Buenos Aires, Argentina
+I have a cat called Java :3
 
 <img width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
