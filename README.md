@@ -1,4 +1,4 @@
-# I'm Camila Codina <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50">
+# I'm Camila Codina 
 
 Student Cloud at <img src="https://media.giphy.com/media/1oEtaaHzJRlLAa3MG8/giphy.gif" width="43"> | Computer Engineer Student at University of Buenos Aires
 
