@@ -2,7 +2,7 @@
 
 <p> Student Cloud at IBM <img src="https://media.giphy.com/media/7JQIe39F9KsCNN9f99/giphy.gif" width="30"> </p>
 
-<p> Computer Engineer Student af University of Buenos Aires </p>
+<p> Computer Engineer Student at University of Buenos Aires </p>
 
 I'm 19 years old, I live in Buenos Aires - Argentina and I have a cat called Java :3
 
