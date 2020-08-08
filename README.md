@@ -4,7 +4,10 @@
 
 <p> Computer Engineer Student at University of Buenos Aires </p>
 
-I'm 19 years old, I live in Buenos Aires - Argentina and I have a cat called Java :3
+<p> 19 years old </p>
+<p> Buenos Aires - Argentina </p>
+<p> I love to learn new things </p>
+<p> I have a cat called Java :3 </p>
 
 <img width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
