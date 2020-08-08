@@ -1,13 +1,11 @@
 # I'm Camila Codina <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50">
 
-<p> Student Cloud at IBM <img src="https://media.giphy.com/media/7JQIe39F9KsCNN9f99/giphy.gif" width="30"> </p>
+Student Cloud at <img src="https://media.giphy.com/media/1oEtaaHzJRlLAa3MG8/giphy.gif" width="43"> | Computer Engineer Student at University of Buenos Aires
 
-<p> Computer Engineer Student at University of Buenos Aires </p>
-
-<p> 19 years old </p>
-<p> Buenos Aires - Argentina </p>
-<p> I love to learn new things </p>
-<p> I have a cat called Java :3 </p>
+- 19 years old 
+- Buenos Aires - Argentina 
+- I love to learn new things 
+- I have a cat called Java :3 
 
 <img width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
