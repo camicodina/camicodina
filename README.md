@@ -15,10 +15,10 @@ Student Cloud at <img src="https://media.giphy.com/media/1oEtaaHzJRlLAa3MG8/giph
 <p align="left">
 <img src="https://midu.dev/images/tags/node.png" width="50">
 <img src="https://impact-hr.com/wp-content/uploads/2017/04/javascript_round.png" width="50">
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="50">
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="50">
-<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" width="50">
-<img src="https://lh3.googleusercontent.com/proxy/kGrKqa4HLLCQl5v0rI96FXOQ0mvxtMVOp6gKV-ljkd-HyzNAVBYeKiqL9iEI1ZHhXXSFPX3zPb4vEuaBlZrX3RMIciqK-1O-9aEbo4X4CQ3DKAldDZkH0qYJncCAOyJkAKiINkwNU6qfEU7387w19TA" width="50">
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="53">
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="53">
+<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" width="49">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" width="48">
 </p>
 <br>
 
