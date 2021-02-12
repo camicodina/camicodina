@@ -42,5 +42,5 @@ Student Cloud at <img src="https://media.giphy.com/media/1oEtaaHzJRlLAa3MG8/giph
 
 <a href="https://www.linkedin.com/in/camila-codina-48ab64193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/CamyCodi" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.instagram.com/camy.codi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/camy.code/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
