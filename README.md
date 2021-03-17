@@ -12,24 +12,28 @@ Student Cloud at <img src="https://media.giphy.com/media/1oEtaaHzJRlLAa3MG8/giph
 
 ## Technologies
 
+<!--Desarrollo-->
 <p align="left">
-<img src="https://midu.dev/images/tags/node.png" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" width="48">
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="55">
+<img src="https://midu.dev/images/tags/node.png" width="53">
 <img src="https://impact-hr.com/wp-content/uploads/2017/04/javascript_round.png" width="50">
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="53">
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="53">
 <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" width="49">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" width="48">
 </p>
 <br>
 
+<!--DevOps-->
 <p align="left">
 <img width="90" src="https://miro.medium.com/max/5200/0*pKLAVm71xwJa8vJz.png"> 
 <img width="85" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png">
 </p>
 <br>
 
+<!--Arquitectura-->
 <p align="left">
-<img height=79px src="https://blogs.encamina.com/por-una-nube-sostenible/wp-content/uploads/sites/19/2015/11/docker-logo.png">
+<img height=50px src="https://cursosdedesarrollo.com/wp-content/uploads/2019/08/Moby-logo.png">
 <img height=68px src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png">
 <img height=70px src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg">
 </p>
