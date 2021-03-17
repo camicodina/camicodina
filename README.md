@@ -29,8 +29,8 @@ Student Cloud at <img src="https://media.giphy.com/media/1oEtaaHzJRlLAa3MG8/giph
 <br>
 
 <p align="left">
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU">
-<img height=67px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png">
+<img height=60px src="https://cursosdedesarrollo.com/wp-content/uploads/2019/08/Moby-logo.png">
+<img height=67px src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png">
 <img height=63px src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg">
 </p>
 <br>
