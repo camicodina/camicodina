@@ -1,6 +1,6 @@
 # I'm Camila Codina 
 
-**Cloud Engineer** at <img src="https://media.giphy.com/media/1oEtaaHzJRlLAa3MG8/giphy.gif" width="43"> | Computer Engineer Student at University of Buenos Aires
+**Cloud Engineer** at <img src="https://media.giphy.com/media/1oEtaaHzJRlLAa3MG8/giphy.gif" width="43"> Client Engineering | Computer Engineer Student at University of Buenos Aires
 
 - 20 years old 
 - Buenos Aires - Argentina 
