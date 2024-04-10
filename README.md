@@ -1,6 +1,6 @@
 # I'm Camila Codina 
 
-**Cloud Architect** at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png" width="43"> | Computer Engineer Student at University of CEMA
+**Cloud Architect** at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png" width="35"> | Computer Engineer Student at University of CEMA
 
 - 23 years old 
 - Buenos Aires - Argentina 
