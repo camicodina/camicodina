@@ -1,8 +1,8 @@
 # I'm Camila Codina 
 
-**Cloud Engineer** at <img src="https://media.giphy.com/media/1oEtaaHzJRlLAa3MG8/giphy.gif" width="43"> Client Engineering | Computer Engineer Student at University of Buenos Aires
+**Cloud Architect** at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png" width="43"> | Computer Engineer Student at University of CEMA
 
-- 20 years old 
+- 23 years old 
 - Buenos Aires - Argentina 
 - I love to learn new things 
 - I have a cat called Java :3 
