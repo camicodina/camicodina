@@ -7,7 +7,7 @@
 - I love to learn new things 
 - I have a cat called Java :3 
 
-<img width = "35%" align="right" alt="GIF" height="10%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<img width = "22%" align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 
 ## Technologies
