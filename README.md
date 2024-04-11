@@ -14,32 +14,44 @@
 
 <!--Desarrollo-->
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" width="48">
-<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="55">
-<img src="https://midu.dev/images/tags/node.png" width="53">
-<img src="https://impact-hr.com/wp-content/uploads/2017/04/javascript_round.png" width="50">
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="53">
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="53">
-<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" width="49">
+  <img src="https://img.shields.io/badge/-Python-000?&logo=python&labelColor=1F2430&color=1F2430&logoColor=1eafcc"></img>
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/-C-000?&logo=c&labelColor=1F2430&color=1F2430&logoColor=3eb8e8"></img>
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5&labelColor=1F2430&color=1F2430&logoColor=F1662A"></img>
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/-CSS3-000?&logo=css3&labelColor=1F2430&color=1F2430&logoColor=27AAE0"></img>
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&labelColor=1F2430&color=1F2430&logoColor=F7DF1E"></img>
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js&labelColor=1F2430&color=1F2430&logoColor=82AE1B"></img> 
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&labelColor=1F2430&color=1F2430&logoColor=c683f7"></img>
+  &nbsp&nbsp
 </p>
-<br>
+
 
 <!--DevOps-->
-<p align="left">
-<img width="90" src="https://miro.medium.com/max/5200/0*pKLAVm71xwJa8vJz.png"> 
-<img width="85" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png">
+<p align="left">  
+  <img src="https://img.shields.io/badge/-Git-000?&logo=Git&labelColor=1F2430&color=1F2430&logoColor=e8e8e8"></img>
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/-Tekton-000?&logo=tekton&labelColor=1F2430&color=1F2430&logoColor=38d1f7%22%3E%3C"></img>  
+  &nbsp&nbsp
 </p>
-<br>
+
+
 
 <!--Arquitectura-->
 <p align="left">
-<img height=75px src="https://blogs.encamina.com/por-una-nube-sostenible/wp-content/uploads/sites/19/2015/11/docker-logo.png">
-<img height=68px src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png">
-<img height=70px src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg">
+  <img src="https://img.shields.io/badge/-GoogleCloud-000?&logo=GoogleCloud&labelColor=1F2430&color=1F2430&logoColor=38d1f7"></img>
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/-Docker-000?&logo=docker&labelColor=1F2430&color=1F2430&logoColor=38d1f7"></img>
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/-kubernetes-000?&logo=kubernetes&labelColor=1F2430&color=1F2430&logoColor=38d1f7"></img>
+  &nbsp&nbsp
 </p>
 <br>
 
-<p align="left"><img src="https://itconnect.lat/portal/wp-content/uploads/2019/08/IBM-Cloud.png" height=60px></p>
 
 
 ## Contact Me! :mailbox_with_no_mail:
